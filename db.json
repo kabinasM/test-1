@@ -1,0 +1,32 @@
+{
+   "chizza" : [
+        {
+          "Image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K754.jpg?ver=25.08",
+          "title": "Chizza",
+          "veg": " veg  ",
+          "price": "₹299.05",
+          "description": "spicy sauce, veggies & herbs. All-chicken-no-crust pizza!"
+        },
+        {
+          "Image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002262.jpg?ver=25.08",
+          "title": "Chizza & Choco Lava Combo",
+          "veg": " veg  Serves 2",
+          "price": "₹479.05",
+          "description": "Choco Lava & Pepsi PET"
+        },
+        {
+          "Image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002260.jpg?ver=25.08",
+          "title": "Duo Chizza",
+          "veg": " veg  Serves 34",
+          "price": "₹588.57",
+          "description": "2 Chizzas at a deal price"
+        },
+        {
+          "Image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002261.jpg?ver=25.08",
+          "title": "Chizza & Fries Combo",
+          "veg": " veg  Serves 3",
+          "price": "₹788.57",
+          "description": "Save 21% on 4 Hot & Crispy, 4 Wings, 6 Peri Strips"
+        }
+      ]
+}
